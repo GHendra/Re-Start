@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E1579AF-083F-4AEE-A5B1-F0F48EE547AB}</ProjectGuid>
+    <ProjectGuid>{585F9A03-DF1E-40C2-9532-D4FA4BC31CB7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Re_SConsole</RootNamespace>
-    <AssemblyName>Re_SConsole</AssemblyName>
+    <RootNamespace>ReStart_Console</RootNamespace>
+    <AssemblyName>ReStart_Console</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

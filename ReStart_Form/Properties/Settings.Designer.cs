@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Re_SForm.Properties
+namespace ReStart_Form.Properties
 {
 
 

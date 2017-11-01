@@ -1,4 +1,4 @@
-﻿namespace Re_SForm
+﻿namespace ReStart_Form
 {
     partial class Form1
     {

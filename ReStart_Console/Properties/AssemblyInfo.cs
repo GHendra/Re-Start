@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Re_SForm")]
+[assembly: AssemblyTitle("ReStart_Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Re_SForm")]
+[assembly: AssemblyProduct("ReStart_Console")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3ca7b395-d006-4eea-a766-302222ecf64b")]
+[assembly: Guid("585f9a03-df1e-40c2-9532-d4fa4bc31cb7")]
 
 // Version information for an assembly consists of the following four values:
 //
